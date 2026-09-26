@@ -1,0 +1,7 @@
+expo.modules.wakelock.wake-lock-pngs-0 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/generated/res/pngs/release
+expo.modules.wakelock.wake-lock-resValues-1 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/generated/res/resValues/release
+expo.modules.wakelock.wake-lock-mergeReleaseResources-2 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+expo.modules.wakelock.wake-lock-mergeReleaseResources-3 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+expo.modules.wakelock.wake-lock-release-4 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/merged_res/release/mergeReleaseResources
+expo.modules.wakelock.wake-lock-main-5 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/src/main/res
+expo.modules.wakelock.wake-lock-release-6 /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/src/release/res

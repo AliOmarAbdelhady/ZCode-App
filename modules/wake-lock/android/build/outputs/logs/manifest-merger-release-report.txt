@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml:2:13-83
+INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml:2:13-83
+	package
+		INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml
+	xmlns:android
+		ADDED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml:2:23-81
+uses-sdk
+INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml reason: use-sdk injection requested
+INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml
+INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml
+	android:targetSdkVersion
+		INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml
+	android:minSdkVersion
+		INJECTED from /home/ali/.zcode/workspace/default/ZCode-App/modules/wake-lock/android/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest18242205890429678191.xml
